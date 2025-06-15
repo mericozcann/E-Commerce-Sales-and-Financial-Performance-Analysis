@@ -62,7 +62,7 @@ In-depth financial metrics and customer value analysis were performed using Pyth
 - What products or brands will likely be popular in the future?
 - Should pricing strategies be customized per city?
 
-#### 📊 Reporting & Results
+### 3. 📊 Reporting & Results
 - The Excel dashboard offers a user-friendly overview of product, city, and monthly order performance.
 
 - The Python analysis allows for data cleaning, automation, and deeper insights into revenue, customer value, and profitability.
@@ -73,7 +73,7 @@ In-depth financial metrics and customer value analysis were performed using Pyth
 
 - Revenue-driving products and underperforming cities were clearly visualized.
 
-#### 🧠 Key Learnings
+### 4. 🧠 Key Learnings
 - Excel is excellent for fast visual exploration and summary statistics, especially when working with stakeholders or non-technical users.
 
 - Python offers superior control for complex analysis, segmentation, financial evaluation, and scaling for larger datasets.
@@ -82,7 +82,7 @@ In-depth financial metrics and customer value analysis were performed using Pyth
 
 - Creating a multi-layered question framework (easy-medium-hard) is highly effective in guiding business problem-solving.
 
-#### 🔧 Future Improvements
+### 5. 🔧 Future Improvements
 - 📈 Integrate forecasting models (e.g., ARIMA, Prophet) to predict future demand.
 
 - 🗂 Add automated dashboards using tools like Power BI or Tableau.
@@ -93,7 +93,7 @@ In-depth financial metrics and customer value analysis were performed using Pyth
 
 - 🔄 Build an automated ETL pipeline for real-time reporting and updates.
 
-#### Data Source: https://blog.excel751.com/
+### 6. Data Source: https://blog.excel751.com/
 
 #### 🧰 Python Libraries Used
 
