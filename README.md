@@ -62,6 +62,8 @@ In-depth financial metrics and customer value analysis were performed using Pyth
 - What products or brands will likely be popular in the future?
 - Should pricing strategies be customized per city?
 
+---
+
 ### 3. 📊 Reporting & Results
 - The Excel dashboard offers a user-friendly overview of product, city, and monthly order performance.
 
